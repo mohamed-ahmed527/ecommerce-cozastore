@@ -1,0 +1,13 @@
+{
+  "cart": [
+    {
+      "title": "Vintage Inspired Classic",
+      "price": 104,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-15.jpg",
+      "qty": 1,
+      "size": "size S",
+      "color": "Red",
+      "id": 1
+    }
+  ]
+}

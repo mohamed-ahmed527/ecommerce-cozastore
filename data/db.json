@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-04.jpg",
+      "title": "Esprit Ruffle Shirt",
+      "price": 53,
+      "class": "women",
+      "incart": false,
+      "quantity":0
+    },
+    {
+      "id": 2,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-07.jpg",
+      "title": "Herschel supply",
+      "price": 99,
+      "class": "women",
+      "incart": false,
+      "quantity":0
+    },
+    {
+      "id": 3,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-03.jpg",
+      "title": "Only Check Trouser",
+      "price": 48,
+      "class": "men",
+      "incart": false,
+      "quantity":0
+    },
+    {
+      "id": 4,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-04.jpg",
+      "title": "Classic Trench Coat",
+      "price": 58,
+      "class": "women",
+      "incart": false,
+      "quantity":0
+    },
+    {
+      "id": 5,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-07.jpg",
+      "title": "Front Pocket Jumper",
+      "price": 98,
+      "class": "women",
+      "incart": false,
+      "quantity":0
+    },
+    {
+      "id": 6,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-15.jpg",
+      "title": "Vintage Inspired Classic",
+      "price": 104,
+      "class": "watches",
+      "incart": false,
+      "quantity":0
+    },
+    {
+      "id": 7,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-04.jpg",
+      "title": "Shirt in Stretch Cotton",
+      "price": 47,
+      "class": "women",
+      "incart": false,
+      "quantity":0
+    },
+    {
+      "id": 8,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-07.jpg",
+      "title": "Pieces Metallic Printed",
+      "price": 112,
+      "class": "women",
+      "incart": false,
+      "quantity":0
+    },
+    {
+      "id": 9,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-09.jpg",
+      "title": "Converse All Star Hi Plimsolls",
+      "price": 103,
+      "class": "shoes",
+      "incart": false,
+      "quantity":0
+    },
+    {
+      "id": 10,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-04.jpg",
+      "title": "Femme T-Shirt In Stripe",
+      "price": 37,
+      "class": "women",
+      "incart": false,
+      "quantity":0
+    },
+    {
+      "id": 11,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-11.jpg",
+      "title": "Herschel supply",
+      "price": 35,
+      "class": "men",
+      "incart": false,
+      "quantity":0
+    },
+    {
+      "id": 12,
+      "avatar": "https://images.pexels.com/photos/3651597/pexels-photo-3651597.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Herschel supply",
+      "price": 75,
+      "class": "men",
+      "incart": false,
+      "quantity":0
+    },
+    {
+      "id": 13,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-04.jpg",
+      "title": "T-Shirt with Sleeve",
+      "price": 49,
+      "class": "women",
+      "incart": false,
+      "quantity":0
+    },
+    {
+      "id": 14,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-04.jpg",
+      "title": "Pretty Little Thing",
+      "price": 40,
+      "class": "women",
+      "incart": false,
+      "quantity":0
+    },
+    {
+      "id": 15,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-06.jpg",
+      "title": "Mini Silver Mesh Watch",
+      "price": 78,
+      "class": "watches",
+      "incart": false,
+      "quantity":0
+    },
+    {
+      "id": 16,
+      "avatar": "https://preview.colorlib.com/theme/cozastore/images/product-04.jpg",
+      "title": "Square Neck Back",
+      "price": 86,
+      "class": "women",
+      "incart": false,
+      "quantity":0
+    }
+  ]
+}
